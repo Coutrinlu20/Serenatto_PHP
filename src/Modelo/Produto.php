@@ -60,8 +60,6 @@ public function getPreco(): float
     
     return  "R$" . number_format($this->preco,2 );
  }
-
-
 }
 
 
